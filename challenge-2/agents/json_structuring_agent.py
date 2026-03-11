@@ -154,7 +154,7 @@ Return only the structured JSON object with all extracted text."""
         # Get response from agent
         response = openai_client.responses.create(
             input=user_query,
-            extra_body={"agent": {"name": agent.name, "type": "agent_reference"}},
+            extra_body={"agent_reference": {"name": agent.name, "type": "agent_reference"}},
         )
         
         # Extract the JSON from response
@@ -351,7 +351,7 @@ Return only the structured JSON object with all extracted text."""
             # Get response from agent
             response = openai_client.responses.create(
                 input=user_query,
-                extra_body={"agent": {"name": agent.name, "type": "agent_reference"}},
+                extra_body={"agent_reference": {"name": agent.name, "type": "agent_reference"}},
             )
             
             # Extract and parse response
