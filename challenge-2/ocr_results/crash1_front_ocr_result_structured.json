@@ -68,8 +68,8 @@
   "confidence": "high",
   "extraction_notes": "All text was clearly legible and extracted completely without ambiguity.",
   "metadata": {
-    "source_file": "/workspaces/claims-processing-hack/challenge-0/data/statements/crash1_front.jpeg",
-    "processing_timestamp": "2026-01-30T11:47:12.244162",
+    "source_file": "../../challenge-0/data/statements/crash1_front.jpeg",
+    "processing_timestamp": "2026-03-11T10:55:45.605604",
     "agent_model": "gpt-4.1-mini",
     "original_text_length": 1032
   }

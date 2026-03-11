@@ -1,16 +1,16 @@
 {
   "extracted_data": {
     "claimant_name": "John Peterson",
-    "policy_number": "C1A8-AU1D-001",
+    "policy_number": "LIAB-AUTO-001",
     "claim_date": "July 17, 2025",
     "vehicle_info": {
       "year": "2004",
       "make": "Honda",
       "model": "Accord",
-      "vin": "1HGCM56404A123456",
+      "vin": "1HGCH56404A123456",
       "license_plate": "OH-GHR1984"
     },
-    "incident_description": "On the morning of July 17, 2025, my vehicle was legally parked in a market parking space at 2325 Rain Street, Springfield. At approximately 8:30 AM, while I was inside a nearby store, I was notified by a witness that a gray pickup truck attempting to park beside my car, struck the front end and drive/side of my vehicle. The other car's driver failed to properly judge the distance and colluded with my vehicle, causing significant damage. The other driver left their information and waited for the police to arrive.",
+    "incident_description": "On the morning of July 17, 2025, my vehicle was legally parked in a market parking space at 2325 Main Street, Springfield. At approximately 8:30 AM, while I was inside a nearby store, I was notified by a witness that a gray pickup truck attempting to park beside my car, struck the front end and driver's side of my vehicle. The other car's driver failed to properly judge the distance and collided with my vehicle, causing significant damage. The other driver left their information and waited for the police to arrive.",
     "signature_present": false
   },
   "annotations": [
@@ -22,9 +22,9 @@
     },
     {
       "field_name": "policy_number",
-      "value": "C1A8-AU1D-001",
+      "value": "LIAB-AUTO-001",
       "confidence": 0.9,
-      "raw_text": "C1A8-AU1D-001"
+      "raw_text": "LIAB-AUTO-001"
     },
     {
       "field_name": "claim_date",
@@ -52,9 +52,9 @@
     },
     {
       "field_name": "vehicle_info.vin",
-      "value": "1HGCM56404A123456",
+      "value": "1HGCH56404A123456",
       "confidence": 0.9,
-      "raw_text": "1HGCM56404A123456"
+      "raw_text": "1HGCH56404A123456"
     },
     {
       "field_name": "vehicle_info.license_plate",
@@ -64,9 +64,9 @@
     },
     {
       "field_name": "incident_description",
-      "value": "On the morning of July 17, 2025, my vehicle was legally parked in a market parking space at 2325 Rain Street, Springfield. At approximately 8:30 AM, while I was inside a nearby store, I was notified by a witness that a gray pickup truck attempting to park beside my car, struck the front end and drive/side of my vehicle. The other car's driver failed to properly judge the distance and colluded with my vehicle, causing significant damage. The other driver left their information and waited for the police to arrive.",
+      "value": "On the morning of July 17, 2025, my vehicle was legally parked in a market parking space at 2325 Main Street, Springfield. At approximately 8:30 AM, while I was inside a nearby store, I was notified by a witness that a gray pickup truck attempting to park beside my car, struck the front end and driver's side of my vehicle. The other car's driver failed to properly judge the distance and collided with my vehicle, causing significant damage. The other driver left their information and waited for the police to arrive.",
       "confidence": 0.9,
-      "raw_text": "On the morning of July 17, 2025, my vehicle was legally parked in a market parking space at 2325 Rain Street, Springfield. At approximately 8:30 AM, while I was inside a nearby store, I was notified by a witness that a gray pickup truck attempting to park beside my car, struck the front end and drive/side of my vehicle. The other car's driver failed to properly judge the distance and colluded with my vehicle, causing significant damage. The other driver left their information and waited for the police to arrive."
+      "raw_text": "On the morning of July 17, 2025, my vehicle was legally parked in a market parking space at 2325 Main Street, Springfield. At approximately 8:30 AM, while I was inside a nearby store, I was notified by a witness that a gray pickup truck attempting to park beside my car, struck the front end and driver's side of my vehicle. The other car's driver failed to properly judge the distance and collided with my vehicle, causing significant damage. The other driver left their information and waited for the police to arrive."
     },
     {
       "field_name": "signature_present",
@@ -79,7 +79,7 @@
   "pages": [
     {
       "page_number": 0,
-      "markdown": "# ACCIDENT STATEMENT FORM\n\n**Policyholder Information**\nName: John Peterson\nAddress: 1142 Pinecrest Avenue, Springfield, OH 45503\nPhone: (937) 555-2319\nEmail: john.peterson@email.com\nPolicy Number: C1A8-AU1D-001\nClaimant ID:\n\n**Vehicle Information**\nYear/Make/Model: 2004 Honda Accord\nColor: Silver\nVIN: 1HGCM56404A123456\nLicense Plate: OH-GHR1984\n\n**Accident Information**\nDate of Incident: July 17, 2025\nTime: 8:30 AM\nLocation: Parking Lot, 2325 Rain Street, Springfield,\nOH 45503\n\n**Description of Incident**\nOn the morning of July 17, 2025, my vehicle was legally\nparked in a market parking space at 2325 Rain Street,\nSpringfield. At approximately 8:30 AM, while I was inside a nearby\nstore, I was notified by a witness that a gray pickup truck\nattempting to park beside my car, struck the front end and drive/side\nof my vehicle. The other car's driver failed to properly judge the\ndistance and colluded with my vehicle, causing significant damage.\nThe other driver left their information and waited for the police\nto arrive.",
+      "markdown": "# ACCIDENT STATEMENT FORM\n\n## Policyholder Information\n\nName: John Peterson\nAddress: 1142 Pinecrest Avenue, Springfield, OH 45503\nPhone: (937) 555-2319\nEmail: john.peterson@email.com\nPolicy Number: LIAB-AUTO-001\nClaimant ID:\n\n## Vehicle Information\n\nYear/Make/Model: 2004 Honda Accord\nColor: Silver\nVIN: 1HGCH56404A123456\nLicense Plate: OH-GHR1984\n\n## Accident Information\n\nDate of Incident: July 17, 2025\nTime: 8:30 AM\nLocation: Parking Lot, 2325 Main Street, Springfield, OH 45503\n\n## Description of Incident\n\nOn the morning of July 17, 2025, my vehicle was legally parked in a market parking space at 2325 Main Street, Springfield. At approximately 8:30 AM, while I was inside a nearby store, I was notified by a witness that a gray pickup truck attempting to park beside my car, struck the front end and driver's side of my vehicle. The other car's driver failed to properly judge the distance and collided with my vehicle, causing significant damage. The other driver left their information and waited for the police to arrive.",
       "dimensions": {
         "dpi": 200,
         "height": 2048,
@@ -90,8 +90,8 @@
   ],
   "metadata": {
     "model": "mistral-document-ai-2505",
-    "processing_time_seconds": 1.45,
-    "file_path": "/workspaces/claims-processing-hack/challenge-1/statements_processing/../../challenge-0/data/statements/crash1_front.jpeg",
+    "processing_time_seconds": 3.22,
+    "file_path": "../../challenge-0/data/statements/crash1_front.jpeg",
     "include_bboxes": true,
     "json_schema_provided": true,
     "schema_for_extraction": {
@@ -170,5 +170,5 @@
       ]
     }
   },
-  "raw_text": "# ACCIDENT STATEMENT FORM\n\n**Policyholder Information**\nName: John Peterson\nAddress: 1142 Pinecrest Avenue, Springfield, OH 45503\nPhone: (937) 555-2319\nEmail: john.peterson@email.com\nPolicy Number: C1A8-AU1D-001\nClaimant ID:\n\n**Vehicle Information**\nYear/Make/Model: 2004 Honda Accord\nColor: Silver\nVIN: 1HGCM56404A123456\nLicense Plate: OH-GHR1984\n\n**Accident Information**\nDate of Incident: July 17, 2025\nTime: 8:30 AM\nLocation: Parking Lot, 2325 Rain Street, Springfield,\nOH 45503\n\n**Description of Incident**\nOn the morning of July 17, 2025, my vehicle was legally\nparked in a market parking space at 2325 Rain Street,\nSpringfield. At approximately 8:30 AM, while I was inside a nearby\nstore, I was notified by a witness that a gray pickup truck\nattempting to park beside my car, struck the front end and drive/side\nof my vehicle. The other car's driver failed to properly judge the\ndistance and colluded with my vehicle, causing significant damage.\nThe other driver left their information and waited for the police\nto arrive.\n\n"
+  "raw_text": "# ACCIDENT STATEMENT FORM\n\n## Policyholder Information\n\nName: John Peterson\nAddress: 1142 Pinecrest Avenue, Springfield, OH 45503\nPhone: (937) 555-2319\nEmail: john.peterson@email.com\nPolicy Number: LIAB-AUTO-001\nClaimant ID:\n\n## Vehicle Information\n\nYear/Make/Model: 2004 Honda Accord\nColor: Silver\nVIN: 1HGCH56404A123456\nLicense Plate: OH-GHR1984\n\n## Accident Information\n\nDate of Incident: July 17, 2025\nTime: 8:30 AM\nLocation: Parking Lot, 2325 Main Street, Springfield, OH 45503\n\n## Description of Incident\n\nOn the morning of July 17, 2025, my vehicle was legally parked in a market parking space at 2325 Main Street, Springfield. At approximately 8:30 AM, while I was inside a nearby store, I was notified by a witness that a gray pickup truck attempting to park beside my car, struck the front end and driver's side of my vehicle. The other car's driver failed to properly judge the distance and collided with my vehicle, causing significant damage. The other driver left their information and waited for the police to arrive.\n\n"
 }
