@@ -159,7 +159,7 @@ az containerapp create \
 
 This would give you a production-ready, scalable UI that complements your backend API!
 
-## Related
+## Related.
 
 - [Challenge 4: API Server](../challenge-4/README.md)
 - [Streamlit Documentation](https://docs.streamlit.io/)
