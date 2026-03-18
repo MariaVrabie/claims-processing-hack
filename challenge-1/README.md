@@ -102,7 +102,7 @@ The `statements_processing` folder contains advanced examples showcasing differe
 - Cost-effective for high-volume statement processing
 - Fast inference times for batch operations
 
-**Azure Document Intelligence Integration**
+**Azure Document Intelligence Integration (`doc_intelligence_processing.py`)**
 - Demonstrates prebuilt models for form and document extraction
 - Shows custom model training for insurance-specific documents
 - Provides layout analysis and key-value pair extraction
