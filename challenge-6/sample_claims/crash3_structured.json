@@ -1,0 +1,18 @@
+{
+  "policy_number": "LIAB-AUTO-001",
+  "policy_holder_name": "Michael Rodriguez",
+  "policy_holder_address": "217 Maplewood Avenue, Harrisburg, PA 17102",
+  "policy_holder_phone": "(717) 555-7745",
+  "vehicle_year_make_model": "2012 Suzuki SX4",
+  "vehicle_color": "White",
+  "vehicle_vin": "JS2YB5A31C6109734",
+  "vehicle_license_plate": "PA – KLX2194",
+  "incident_date": "July 19, 2025",
+  "incident_time": "6:30 PM",
+  "incident_location": "400 East 8th Street, Harrisburg, PA 17102",
+  "weather_conditions": "Partly cloudy, roads dry",
+  "incident_description": "Operating vehicle eastbound on East 8th Street, slowed to make left turn into residential driveway. Another vehicle traveling at excessive speed attempted to overtake on left and collided forcefully with rear driver's side quarter panel. Impact caused car to spin and strike nearby curb, resulting in further damage to front bumper and left front wheel. At-fault driver admitted fault to responding police officer.",
+  "damage_description": "Major denting and scraping to rear driver's side quarter panel and bumper; damage to rear wheel arch; front bumper heavily crumpled and partially detached due to secondary curb impact; left front wheel and suspension suspected damaged; minor scraping to front left headlight housing; vehicle determined not drivable and towed for repair assessment",
+  "claim_request": "Full assessment and repair of all damage to rear quarter panel, front bumper, and suspension",
+  "police_report_number": "25-44278"
+}

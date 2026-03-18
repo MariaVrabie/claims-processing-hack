@@ -101,7 +101,7 @@ Before deploying your agent to production, you'll evaluate its quality and safet
 
 You should be able to see the 2 agents we've previously created on challenge-2.
 
-3. Click on the **JSONStructuringAgent**. 
+3. Click on the **OCRTextExtractionAgent**. 
 
 ![alt text](images/chal3_2.png)
 
@@ -113,7 +113,7 @@ This is the new portal experience in Microsoft Foundry. On your left-hand side, 
 - **Memory:** Enable and control how the agent stores and uses long‑term conversational memory.
 - **Guardrails:** Set safety, compliance, and content rules that constrain the agent’s output using Azure AI Content Safety.
 
-On the JsonStructuringAgent, we haven't set anything other than a prompt on how to structure the json. However, these tools, are very similar to the typical experience when creating agents. It's the other tabs that bring the best experience to the New Foundry Portal.
+On the OCRTextExtractionAgent, we haven't set anything other than a prompt on how to structure the json. However, these tools, are very similar to the typical experience when creating agents. It's the other tabs that bring the best experience to the New Foundry Portal.
 
 4. Click on the **Traces** Tab
 

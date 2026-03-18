@@ -1,0 +1,48 @@
+{
+  "crash1": {
+    "policy_number": "LIAB-AUTO-001",
+    "policy_type": "Liability Only Auto Insurance",
+    "expected_decision": "DENIED",
+    "reasoning_summary": "Liability-only policy does not cover damage to the policyholder's own vehicle. Section 4.1 explicitly excludes: 'Collision damage to your vehicle' and 'Comprehensive damage (theft, vandalism, weather)'. The claimant requests repair coverage for their own 2004 Honda Accord, which is not covered.",
+    "applicable_coverage": "None - Own vehicle damage not covered",
+    "notes": "The claimant's request for 'full coverage of repair expenses minus deductible' is inconsistent with their liability-only policy. This is a key scenario for participants to catch."
+  },
+  "crash2": {
+    "policy_number": "COMM-AUTO-001",
+    "policy_type": "Commercial Auto Insurance",
+    "expected_decision": "APPROVED",
+    "reasoning_summary": "Commercial Auto policy includes Physical Damage Coverage with both Collision and Comprehensive coverage. The claim involves a collision during normal driving (eastbound through green light), which falls under 'Damage from vehicle collisions during business use'. No exclusions apply.",
+    "applicable_coverage": "Physical Damage - Collision Coverage",
+    "deductible": "$500",
+    "coverage_limit": "$50,000 per incident",
+    "notes": "Severe damage including B-pillar compromise and airbag deployment. Damage may approach coverage limits depending on assessment."
+  },
+  "crash3": {
+    "policy_number": "LIAB-AUTO-001",
+    "policy_type": "Liability Only Auto Insurance",
+    "expected_decision": "DENIED",
+    "reasoning_summary": "Same as crash1 — liability-only policy does not cover the policyholder's own vehicle damage. The claimant requests 'full assessment and repair of all damage' to their own 2012 Suzuki SX4. Section 4.1 explicitly excludes collision and comprehensive damage to the insured vehicle.",
+    "applicable_coverage": "None - Own vehicle damage not covered",
+    "notes": "Even though the other driver was at fault, the policyholder's own liability-only policy cannot pay for their vehicle repairs. The claimant should file against the at-fault driver's insurance."
+  },
+  "crash4": {
+    "policy_number": "COMM-AUTO-001",
+    "policy_type": "Commercial Auto Insurance",
+    "expected_decision": "APPROVED",
+    "reasoning_summary": "Commercial Auto policy covers collision damage for business vehicles. The claim involves a rear-end collision while driving on business roads. Falls under 'Damage from vehicle collisions during business use'. Towing reimbursement is also available. No exclusions apply.",
+    "applicable_coverage": "Physical Damage - Collision Coverage",
+    "deductible": "$500",
+    "coverage_limit": "$50,000 per incident",
+    "notes": "Extensive rear damage with potential structural and suspension issues. Towing costs mentioned in claim should also be covered."
+  },
+  "crash5": {
+    "policy_number": "COMM-AUTO-001",
+    "policy_type": "Commercial Auto Insurance",
+    "expected_decision": "APPROVED",
+    "reasoning_summary": "Commercial Auto policy covers collision damage. The claim involves an intersection collision with a pickup truck. Falls under 'Damage from vehicle collisions during business use'. No exclusions apply. Towing reimbursement included in claim request.",
+    "applicable_coverage": "Physical Damage - Collision Coverage",
+    "deductible": "$500",
+    "coverage_limit": "$50,000 per incident",
+    "notes": "Significant damage with potential axle and suspension issues. Vehicle towed from scene. Damage may be significant given description."
+  }
+}

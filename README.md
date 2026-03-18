@@ -75,6 +75,7 @@ To successfully complete this hackathon, you will need the following:
 - **Challenge 03**: **[Observability and Monitoring for AI Agents](challenge-3/README.md)**: Implement comprehensive observability for your Claims Processing Agents using Microsoft Foundry's capabilities—set up OpenTelemetry tracing, configure continuous evaluation for quality and safety metrics, integrate Application Insights, and establish proactive alerting for production systems
 - **Challenge 04**: **[Agent Orchestration and MCP Server Deployment](challenge-4/README.md)**: Orchestrate the OCR and JSON Structuring agents into a multi-agent workflow using Microsoft Agent Framework, implement workflow executors with typed message passing, deploy the workflow as a Model Context Protocol (MCP) server, and integrate with VS Code, Claude Desktop, or other MCP-compatible platforms for reusable AI tooling
 - **Challenge 05**: **[Claims Processing UI](challenge-5-ui/README.md)**: Build a user-friendly web interface using Streamlit to consume the Claims Processing API, upload insurance claim images, view structured results extracted by the multi-agent workflow, and complete the end-to-end claims processing solution
+- **Challenge 06**: **[Policy Matching & Coverage Validation](challenge-6/README.md)**: Build two new AI agents that close a critical gap in the pipeline—use Azure AI Search to retrieve the correct insurance policy for a claim, then validate whether the claim is actually covered by comparing claim details against policy terms, deductibles, and exclusions
 
 ## Contributing
 

@@ -1,0 +1,17 @@
+{
+  "policy_number": "LIAB-AUTO-001",
+  "policy_holder_name": "John Peterson",
+  "policy_holder_address": "1142 Pinecrest Avenue, Springfield, OH 45503",
+  "policy_holder_phone": "(937) 555-2319",
+  "vehicle_year_make_model": "2004 Honda Accord",
+  "vehicle_color": "Silver",
+  "vehicle_vin": "1HGCM56404A123456",
+  "vehicle_license_plate": "OH - GHR1984",
+  "incident_date": "July 17, 2025",
+  "incident_time": "8:30 AM",
+  "incident_location": "Parking lot, 2325 Main Street, Springfield, OH 45503",
+  "incident_description": "Vehicle legally parked in marked space. Gray pickup truck attempting to park beside struck the front end and driver's side of vehicle causing significant damage. Other driver left information and waited for police.",
+  "damage_description": "Front bumper dislodged and partially detached; severe denting and scraping on driver's side front quarter panel; wheel and tire on driver's side front damaged; paint transfer and deformity on the driver's door; headlamp assembly and grille potentially damaged; possible hidden damage to mechanical components behind the bumper",
+  "claim_request": "Full coverage of repair expenses minus deductible",
+  "police_report_number": "25-52814"
+}
