@@ -36,9 +36,6 @@ Before anything else, let's log in into the CLI with our account. Please paste t
 az login --use-device-code
 ```
 
-<details>
-<summary><strong>Optional: Manual Resources Deployment via Azure Portal</strong></summary>
-
 ## 1.3.1 Resources Deployment
 
 Now, time to deploy our resources to Azure!
@@ -48,7 +45,7 @@ Now, time to deploy our resources to Azure!
 **NOTE:** Some parts of your deployment may fail if the resource provider `Microsoft.AlertsManagement` is not registered in your subscription. Follow the [documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/resource-providers-and-types#register-resource-provider-1) to register it and the re-run the deployment.
 
 Resource deployment can take up to 10 minutes, afterwards you'll be able to find all the Azure resources you need in your resource group.
-</details>
+
 
 ## 1.4 Verify the creation of your resources
 
