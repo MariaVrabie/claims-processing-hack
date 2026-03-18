@@ -111,7 +111,7 @@ The `statements_processing` folder contains advanced examples showcasing differe
 This comparison helps you understand when to use each approach based on document type, volume, complexity, and cost considerations. Review the implementations to see practical examples of model selection and integration strategies.
 
 ## Task 2 - Image and Claims Processing
-> **Note:** You must run mistral_doc_intelligence.py before starting this part or copy the contents of the `examples/mistral` folder to `./output/mistral`.
+> **Note:** You must run mistral_doc_intelligence.py before starting this part or copy the contents of the `examples/mistral` folder to `./output/mistral`. Also run doc_intelligence_processing.py
 
 Time to extract information from claim images! Please navigate to `scripts/imageprocessing.ipynb` for a detailed implementation of:
 - Processing insurance claim photos and accident documentation
